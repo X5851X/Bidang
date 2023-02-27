@@ -1,0 +1,2 @@
+# Bidang
+Netbeans IDE
