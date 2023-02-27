@@ -1,6 +1,6 @@
 /**
  *
- * @author Risvandiani
+ * @author R
  */
 public class BidangDatar {
     double alas, tinggi;
