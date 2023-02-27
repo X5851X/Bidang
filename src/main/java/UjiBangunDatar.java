@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Risvandiani
+ * @author R
  */
 public class UjiBangunDatar {
 
